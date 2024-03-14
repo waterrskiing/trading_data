@@ -1,0 +1,14 @@
+<AmiBroker-Batch CompactMode="0">
+<Step>
+<Action>ImportASCII</Action>
+<Param>D:\\Invest\\AmibrokerData\\SLGD_Latest\\CafeF.HNX.Upto14.03.2024.csv</Param>
+</Step>
+<Step>
+<Action>ImportASCII</Action>
+<Param>D:\\Invest\\AmibrokerData\\SLGD_Latest\\CafeF.HSX.Upto14.03.2024.csv</Param>
+</Step>
+<Step>
+<Action>ImportASCII</Action>
+<Param>D:\\Invest\\AmibrokerData\\SLGD_Latest\\CafeF.UPCOM.Upto14.03.2024.csv</Param>
+</Step>
+</AmiBroker-Batch>

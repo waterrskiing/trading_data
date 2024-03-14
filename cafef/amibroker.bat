@@ -1,0 +1,1 @@
+call d:\Workspace\Python\Venvs\Py3_postgresql\Scripts\python.exe D:\Repositories\trading_data\cafef\cafef.py
